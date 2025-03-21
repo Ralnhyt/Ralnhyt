@@ -29,7 +29,7 @@ I’m a dedicated **Data Analyst** and **Cybersecurity Analyst** with a strong f
 
 ## 📫 Let’s Connect  
 - 📍 **Location**: Catalonia  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/david-leiva-albarrac%C3%ADn-625923232/)
+- 🔗 [LinkedIn]([linkedin](https://www.linkedin.com/in/david-leiva-albarrac%C3%ADn-625925322/))
 - 📧 **Email**: [David.l.albarracin@gmail.com]  
 
 ---
