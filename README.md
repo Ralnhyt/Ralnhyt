@@ -20,8 +20,8 @@ I’m a dedicated **Data Analyst** and **Cybersecurity Analyst** with a strong f
 | **[Airbnb Oslo Market Study](https://github.com/Ralnhyt/AIRBNB-Oslo-MARKET-STUDY)** | Studied Airbnb market trends in Oslo using data analytics techniques. | Python, HTML |  
 
 ## 📈 My GitHub Stats  
-![Ralnhyt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralnhyt&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralnhyt&layout=compact&theme=radical)  
+#![Ralnhyt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralnhyt&show_icons=true&theme=radical)  
+
 
 ## 🎓 Education & Certifications  
 - **Data Analytics & IA** - UpgradeHub  
